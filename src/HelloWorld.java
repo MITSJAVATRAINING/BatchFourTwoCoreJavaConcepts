@@ -1,5 +1,20 @@
 
 public class HelloWorld {
+	
+	/**
+	 * CLASSES 
+	 * 1.	Modifiers :- public/default
+	 * 2. 	Class Name :- HelloWorld, is used to uniquely identify. Class name should always start with Capital.
+	 * 3. 	Super Class (if any)
+	 * 4. 	Interfaces.
+	 * 5. 	Body
+	 * 
+	 * OBJECTS 
+	 * 
+	 * 1.	State :- attributes of an object
+	 * 2. 	Behavior :- methods of object
+	 * 3.	Identity :- name of object
+	 * */
 
 	public static void main(String args[]) {
 
